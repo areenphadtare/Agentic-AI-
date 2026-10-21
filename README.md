@@ -1,4 +1,4 @@
-# 🤖 Agentic AI
+ 🤖 Agentic AI
 
 An intelligent **Agentic AI** system capable of autonomously understanding user goals, planning tasks, reasoning through problems, using external tools, and executing multi-step workflows. This project demonstrates how modern AI agents leverage Large Language Models (LLMs), memory, planning, and tool integration to solve real-world problems with minimal human intervention.
 
